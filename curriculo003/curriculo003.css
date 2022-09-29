@@ -1,0 +1,64 @@
+h1.nome {
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #d66f2b;
+}
+h2.curriculo {
+    font-size: 25px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #d66f2b;
+}
+img {
+    border-radius: 50%;
+  }
+
+html{
+    background-color: #ebccb2;
+}
+
+.centro{
+    display:grid;
+    place-items:center;
+}
+
+#abas{
+    list-style:none;
+    padding:0;
+}
+a:link {
+    color: #4175e4;
+}
+
+a:visited {
+    color: #4175e4;
+}
+
+a:hover {
+    color: #d66f2b;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #customers td, #customers th {
+    border: 1px solid rgb(14, 8, 8);
+    padding: 8px;
+  }
+
+  h2.centro {
+    text-align: center;
+}
+
+  #customers tr:hover {background-color: #ddd;}
+
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #a04a10;
+    color: white;
+  }
