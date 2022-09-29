@@ -62,3 +62,14 @@ a:hover {
     background-color: #a04a10;
     color: white;
   }
+
+  nav a:hover{
+    background-color: #919db6;
+  }
+
+  nav a {
+    padding: 15px;
+    color: #080300;
+    text-decoration: none;
+    font-family: sans-serif;
+  }
